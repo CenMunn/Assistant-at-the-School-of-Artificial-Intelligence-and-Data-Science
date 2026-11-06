@@ -1,0 +1,26 @@
+# 本地配置和凭据
+.env
+.env.*
+!.env.example
+.private/
+# 用户记录与运行数据库
+data/
+logs/
+resources/exams/
+resources/reminders/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.lock
+# 环境和缓存
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+# 临时文件
+~$*
+*.tmp

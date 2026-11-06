@@ -1,0 +1,11 @@
+资料来源与适用范围
+
+1. college_knowledge.txt记录课程、教师、考试制度、活动和校园服务的知识条目及来源。
+2. teachers.json记录学院官网公开的教师资料、所属系、联系方式和主页链接。
+3. curriculum_2025.txt为2025级本科培养方案中本学院相关内容的摘要；原件位于resources/curricula/2025-undergraduate-plan.pdf。
+4. curriculum_supplements.json为通识通修和双学士项目摘要；对应原件分别为resources/curricula/general-education-2024.pdf及dual-degree-2024-source.pdf，按年份与项目区分使用。
+5. learning_resources.json记录学习网站的网址、适用课程、基础要求、语言、免费范围、账号条件及资料来源。
+6. resources/rules内保留学校考场纪律与缓考操作文件。制度正文修订年份与附件发布学年分别识别。
+7. texts/示例数据为匿名功能测试样例，不是学校实际考试安排。真实全校学生考试总表未随提交材料附带。
+
+学校事项按已收录资料及其适用范围回答；通用学科知识用于课程讲解。网站资料为核对后保存的本地清单，程序不实时检索网页。

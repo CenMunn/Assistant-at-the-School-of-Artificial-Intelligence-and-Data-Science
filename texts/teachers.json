@@ -1,0 +1,586 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-14",
+  "departments": {
+    "信息管理系": "https://it.uibe.edu.cn/szdw/xxglx/index.htm",
+    "大数据科学与技术系": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/index.htm",
+    "人工智能系": "https://it.uibe.edu.cn/szdw/rgznx/index.htm"
+  },
+  "teachers": [
+    {
+      "id": "T11",
+      "name": "倪耀东",
+      "department": "信息管理系",
+      "title": "教授、博士生导师",
+      "research": "不确定环境下的决策优化、智能计算与规划、社会经济网络和计算社会科学",
+      "emails": [
+        "ni@uibe.edu.cn"
+      ],
+      "office": "求索楼1029",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/xygk/xyld/37926.htm"
+    },
+    {
+      "id": "T12",
+      "name": "于晓丹",
+      "department": "信息管理系",
+      "title": "副教授、博士生导师",
+      "research": "信息系统行为研究、智慧医养、数字教育、敏捷开发、虚拟团队与商务智能",
+      "emails": [
+        "xyu@uibe.edu.cn"
+      ],
+      "office": "",
+      "courses": [
+        "管理信息系统",
+        "系统分析与设计",
+        "数字经济学"
+      ],
+      "notes": "主页写有智慧医养、数字教育方向本科生科研助手招募，当前名额及要求需邮件确认。",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/37954.htm"
+    },
+    {
+      "id": "T13",
+      "name": "刘小月",
+      "department": "信息管理系",
+      "title": "副教授、硕士生导师",
+      "research": "大数据智能决策、群体协同决策、多源数据融合评价、复杂系统优化与应急管理",
+      "emails": [
+        "sxy880530@163.com"
+      ],
+      "office": "求索楼1025",
+      "courses": [
+        "数据库系统及前沿技术",
+        "数据库系统原理",
+        "决策与对策",
+        "优化理论与决策方法"
+      ],
+      "notes": "课程名按主页原文保留，不自动与其他同名或近似课程合并。",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/7ec8b50cb85741069cae7b281bf6e704.htm"
+    },
+    {
+      "id": "T14",
+      "name": "顾睿",
+      "department": "信息管理系",
+      "title": "副教授、博士生导师",
+      "research": "社交媒体、电子商务、移动商务与人机交互",
+      "emails": [
+        "gurui@uibe.edu.cn"
+      ],
+      "office": "求索楼1033",
+      "courses": [
+        "信息管理概论",
+        "数字素养与技能",
+        "商务数据处理与分析",
+        "计算机应用基础"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/77897.htm"
+    },
+    {
+      "id": "T15",
+      "name": "李亮",
+      "department": "信息管理系",
+      "title": "教授、博士生导师",
+      "research": "企业数字化战略、新兴技术下的社会问题、案例研究方法论",
+      "emails": [
+        "liliang2013@uibe.edu.cn"
+      ],
+      "office": "求索楼1025",
+      "courses": [
+        "信息系统建设与实施",
+        "物联网服务与管理",
+        "案例研究设计与方法"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/37953.htm"
+    },
+    {
+      "id": "T16",
+      "name": "任龙",
+      "department": "信息管理系",
+      "title": "教授、博士生导师、硕士生导师",
+      "research": "数智运营与供应链管理、商务智能与决策分析、金融科技与风险管理、企业数智化转型",
+      "emails": [
+        "renl@uibe.edu.cn"
+      ],
+      "office": "求索楼1151",
+      "courses": [
+        "运营管理",
+        "国际物流管理",
+        "会计信息系统",
+        "管理信息系统"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/88966.htm"
+    },
+    {
+      "id": "T17",
+      "name": "王小磊",
+      "department": "信息管理系",
+      "title": "副教授",
+      "research": "在线用户行为、社交电商用户参与、企业数字化转型与组织韧性",
+      "emails": [
+        "wangxiaolei@uibe.edu.cn"
+      ],
+      "office": "求索楼1155",
+      "courses": [
+        "微信小程序与云开发",
+        "数据库系统原理"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/88e63b584d984d06b9b54adc454d11a5.htm"
+    },
+    {
+      "id": "T18",
+      "name": "张宇轩",
+      "department": "信息管理系",
+      "title": "副教授、硕士生导师",
+      "research": "物流供应链、供应链金融、金融科技、可持续运营、供应链韧性与安全",
+      "emails": [
+        "zhangyx@uibe.edu.cn"
+      ],
+      "office": "求索楼1039",
+      "courses": [
+        "互联网金融",
+        "电子金融",
+        "计算机应用基础"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/203b120b42ef4c43905a9885115d6ab0.htm"
+    },
+    {
+      "id": "T19",
+      "name": "林琪",
+      "department": "信息管理系",
+      "title": "讲师、硕士生导师",
+      "research": "运营管理、医疗供应链、医疗信息管理与应急管理",
+      "emails": [
+        "qlin@uibe.edu.cn"
+      ],
+      "office": "求索楼1039",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/xxglx/2faf04cdcca742cdb79fe104457f3196.htm"
+    },
+    {
+      "id": "T20",
+      "name": "汪波",
+      "department": "大数据科学与技术系",
+      "title": "教授、博士生导师",
+      "research": "统计机器学习、弱监督与无监督学习、视觉语言模型、计算机视觉",
+      "emails": [
+        "wangbo@uibe.edu.cn"
+      ],
+      "office": "求索楼1035",
+      "courses": [
+        "应用工程数学",
+        "最优化原理",
+        "统计学习理论"
+      ],
+      "notes": "邮箱由官网明确的[AT]/[DOT]写法还原；主页有本科生科研联系说明，当前是否接收需确认。",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/50452.htm"
+    },
+    {
+      "id": "T21",
+      "name": "雷擎",
+      "department": "大数据科学与技术系",
+      "title": "副教授、硕士生导师",
+      "research": "人工智能、机器学习在自然语言理解、知识图谱、金融科技中的应用",
+      "emails": [
+        "leiqing@uibe.edu.cn"
+      ],
+      "office": "",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/50449.htm"
+    },
+    {
+      "id": "T06",
+      "name": "路冬媛",
+      "department": "大数据科学与技术系",
+      "title": "教授、博士生导师",
+      "research": "人工智能与自然语言处理应用、智能体社会模拟、开源情报、科技创新与产业经济舆情分析",
+      "emails": [
+        "ludy@uibe.edu.cn"
+      ],
+      "office": "",
+      "courses": [],
+      "notes": "主页列为大数据科学与技术系主任；办公电话010-64495140。",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/50450.htm"
+    },
+    {
+      "id": "T01",
+      "name": "李兵",
+      "department": "大数据科学与技术系",
+      "title": "教授、硕士生导师",
+      "research": "社会感知、智能计算、机器学习、自然语言理解",
+      "emails": [
+        "lb0501@126.com"
+      ],
+      "office": "",
+      "courses": [],
+      "notes": "个人页为旧版页面，现任行政职务未核实；系别依据当前官网名录。",
+      "source_url": "https://it.uibe.edu.cn/szdw/xyld/37925.htm"
+    },
+    {
+      "id": "T09",
+      "name": "喇磊",
+      "department": "大数据科学与技术系",
+      "title": "副教授",
+      "research": "互联网文本挖掘、大语言模型性能优化与情感陪伴、机器学习和大模型的管理学应用",
+      "emails": [
+        "lalei1984@aliyun.com"
+      ],
+      "office": "",
+      "courses": [
+        "数据结构与算法分析",
+        "操作系统原理",
+        "计算机网络"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/50448.htm"
+    },
+    {
+      "id": "T22",
+      "name": "刘宁宁",
+      "department": "大数据科学与技术系",
+      "title": "副教授",
+      "research": "科技金融、模式识别与机器学习应用、大数据分析、智能硬件",
+      "emails": [
+        "ningning.liu@uibe.edu.cn"
+      ],
+      "office": "求索楼1043",
+      "courses": [
+        "Python与大数据分析",
+        "计算机网络",
+        "现代服务",
+        "计算机应用基础"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/50451.htm"
+    },
+    {
+      "id": "T23",
+      "name": "黄浩",
+      "department": "大数据科学与技术系",
+      "title": "副教授、硕士生导师",
+      "research": "自监督与对比学习、自然语言处理、大语言模型、知识图谱、图神经网络、深度强化学习",
+      "emails": [
+        "huanghao@uibe.edu.cn"
+      ],
+      "office": "求索721",
+      "courses": [
+        "机器学习",
+        "深度学习理论与实践",
+        "数据科学与人工智能导论"
+      ],
+      "notes": "当前系别依据师资名录；个人页工作经历记载2022年起在数字经济实验室。",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/50447.htm"
+    },
+    {
+      "id": "T24",
+      "name": "王国龙",
+      "department": "大数据科学与技术系",
+      "title": "副教授、硕士生导师",
+      "research": "多模态语义分析和大模型及其在电商、心理咨询、智慧医疗、供应链优化中的应用",
+      "emails": [
+        "wangguolong@uibe.edu.cn"
+      ],
+      "office": "求索楼1037",
+      "courses": [
+        "Python与大数据分析",
+        "软件体系结构与设计模式",
+        "机器学习实践",
+        "机器视觉"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/380b0bc3dde843e6b78e596cfbb1a7aa.htm"
+    },
+    {
+      "id": "T25",
+      "name": "王一帆",
+      "department": "大数据科学与技术系",
+      "title": "助理教授、硕士生导师",
+      "research": "机器学习、文本与图数据挖掘、图神经网络及推荐系统、自然语言处理、AI4Science应用",
+      "emails": [
+        "yifanwang@uibe.edu.cn"
+      ],
+      "office": "求索楼1041",
+      "courses": [
+        "机器学习实践",
+        "Python与数据结构"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/e9984e49eed045e785de7fa8280ad691.htm"
+    },
+    {
+      "id": "T03",
+      "name": "陈俊彰",
+      "department": "大数据科学与技术系",
+      "title": "讲师、硕士生导师",
+      "research": "人工智能算法、计算机视觉、AI for Science、大数据与人工智能应用",
+      "emails": [
+        "cjz@uibe.edu.cn"
+      ],
+      "office": "求索楼1033",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/b3b950171348437ba583a16e30e86f6a.htm"
+    },
+    {
+      "id": "T26",
+      "name": "刘沛羽",
+      "department": "大数据科学与技术系",
+      "title": "助理教授",
+      "research": "自然语言处理、高效大语言模型、模型压缩、长上下文推理、智能体数据分析与代码生成",
+      "emails": [
+        "liupeiyustu@163.com",
+        "liupeiyustu@uibe.edu.cn"
+      ],
+      "office": "求索楼101",
+      "courses": [],
+      "notes": "办公地点按官网原文记录，未自行补足房号。",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/2e6af159ce2b4ca68fdaad5c932fd43c.htm"
+    },
+    {
+      "id": "T27",
+      "name": "闫晨巍",
+      "department": "大数据科学与技术系",
+      "title": "讲师",
+      "research": "人工智能、自然语言处理、大语言模型与知识表征",
+      "emails": [
+        "chenwei.yan@uibe.edu.cn"
+      ],
+      "office": "求索楼1012",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/a8c623fb17e54763a48534e2dbb68eb6.htm"
+    },
+    {
+      "id": "T28",
+      "name": "卢香葵",
+      "department": "大数据科学与技术系",
+      "title": "讲师",
+      "research": "机器学习基础理论及推荐系统、智慧医疗、计算甲骨、数字化教育应用",
+      "emails": [
+        "luxk@uibe.edu.cn"
+      ],
+      "office": "",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/dsjkxyjzx/df2fbe42fa1842849b14e7b92ab925b0.htm"
+    },
+    {
+      "id": "T29",
+      "name": "张琦",
+      "department": "人工智能系",
+      "title": "教授、博士生导师",
+      "research": "机器学习、舆情分析、数字健康、社会网络",
+      "emails": [
+        "zhangqi@uibe.edu.cn"
+      ],
+      "office": "求索楼1151",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/deef222246704bbea6904bed05c208ed.htm"
+    },
+    {
+      "id": "T30",
+      "name": "张莉",
+      "department": "人工智能系",
+      "title": "教授",
+      "research": "智能信息技术、社会网络分析、信用风险管理",
+      "emails": [
+        "tasummer@sina.com"
+      ],
+      "office": "",
+      "courses": [],
+      "notes": "当前人工智能系名录列有张莉，但个人页仍写“信息管理系系主任”；展示按名录分类，现任行政职务需另行确认。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/f6e7b8c4505e444ebcd3a919075efe30.htm"
+    },
+    {
+      "id": "T31",
+      "name": "佟强",
+      "department": "人工智能系",
+      "title": "副教授、硕士生导师",
+      "research": "数据挖掘、推荐系统、大数据技术、机器学习",
+      "emails": [],
+      "office": "求索楼1019",
+      "courses": [
+        "计算机组成原理",
+        "C++程序设计",
+        "Java程序设计",
+        "Web应用程序设计",
+        "R语言"
+      ],
+      "notes": "官网邮箱原文为 tongqiang ^_^ uibe.edu.cn，未提供标准地址；请从原页或联系教师核实，不直接猜测可用邮箱。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/8aa87325a4e04d29971ccbae11f0a0ff.htm"
+    },
+    {
+      "id": "T32",
+      "name": "王树西",
+      "department": "人工智能系",
+      "title": "讲师",
+      "research": "电子商务、大数据、智能问答、自然语言处理、算法",
+      "emails": [
+        "wangshuxi2006@sina.com"
+      ],
+      "office": "",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/a7c881230bfb43dbb0b1f49602187779.htm"
+    },
+    {
+      "id": "T33",
+      "name": "杨向峰",
+      "department": "人工智能系",
+      "title": "教授、博士生导师",
+      "research": "智能决策、计算社会科学、博弈论、期权定价与时间序列分析",
+      "emails": [
+        "yangxf@uibe.edu.cn"
+      ],
+      "office": "求索楼1027",
+      "courses": [
+        "社会科学中的计算思维",
+        "时间序列分析"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/1db493c7baa74b15a85f8a88a145e51a.htm"
+    },
+    {
+      "id": "T08",
+      "name": "陈东华",
+      "department": "人工智能系",
+      "title": "副教授、硕士生导师",
+      "research": "大数据分析、分布式计算、人工智能、智慧医疗、云计算与边缘计算协同决策",
+      "emails": [
+        "dhchen@uibe.edu.cn"
+      ],
+      "office": "求索楼10层",
+      "courses": [],
+      "notes": "仅收录楼层，具体办公室未收录。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/a7603d75954445fd83458d1b810574a7.htm"
+    },
+    {
+      "id": "T10",
+      "name": "袁石",
+      "department": "人工智能系",
+      "title": "讲师、硕士生导师",
+      "research": "数据挖掘、自然语言处理、知识图谱及智慧医疗、数字政府、社交媒体、金融风险应用",
+      "emails": [
+        "ystone1025@uibe.edu.cn"
+      ],
+      "office": "求索楼1006",
+      "courses": [
+        "数据可视化原理及应用",
+        "Python与大数据分析",
+        "系统分析与设计",
+        "数据结构与算法分析"
+      ],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/b31872bc51064489a8eba7f49c7a6dee.htm"
+    },
+    {
+      "id": "T04",
+      "name": "陈润宇",
+      "department": "人工智能系",
+      "title": "副教授、博士生导师",
+      "research": "大模型与智能体商业应用、多模态内容分析与治理、量化金融与风险管理",
+      "emails": [
+        "ry.chen@uibe.edu.cn"
+      ],
+      "office": "求索楼1014",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/538b63f1341d4430b0148c9cb8916e5a.htm"
+    },
+    {
+      "id": "T34",
+      "name": "俞蔚捷",
+      "department": "人工智能系",
+      "title": "助理教授、硕士生导师",
+      "research": "信息检索、自然语言处理、智慧司法、推荐系统及大语言模型、智能体应用",
+      "emails": [
+        "yu@uibe.edu.cn"
+      ],
+      "office": "求索楼1153",
+      "courses": [],
+      "notes": "邮箱按官网明确的 at/dot 写法还原；房号仅去除排版空格。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/d5624a9ed032425b99740d87be0c8f8f.htm"
+    },
+    {
+      "id": "T35",
+      "name": "许萌",
+      "department": "人工智能系",
+      "title": "助理教授、硕士生导师",
+      "research": "机器学习、计算机视觉、机器视觉、自动驾驶、增强现实及金融、法学、音乐交叉应用",
+      "emails": [
+        "xumeng@uibe.edu.cn"
+      ],
+      "office": "求索楼1015",
+      "courses": [],
+      "notes": "房号仅去除官网排版空格。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/e7139ece726e4db6a6c5087a3fc16a4b.htm"
+    },
+    {
+      "id": "T07",
+      "name": "王雪豪",
+      "department": "人工智能系",
+      "title": "讲师／助理教授、硕士生导师",
+      "research": "视觉显著性计算、RGB-D视觉感知、虚拟现实、类脑计算与AI+Health",
+      "emails": [
+        "wangxuehao@uibe.edu.cn"
+      ],
+      "office": "",
+      "courses": [
+        "程序设计基础",
+        "人工智能素养与实践",
+        "数据结构与算法分析",
+        "数字图像处理"
+      ],
+      "notes": "邮箱由官网[AT]/[DOT]写法还原；主页有本科生和研究生招募说明，当前名额仍需确认。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/8375a45edc0c43bd8c6eca8cb4132ada.htm"
+    },
+    {
+      "id": "T36",
+      "name": "王晓",
+      "department": "人工智能系",
+      "title": "助理教授、硕士生导师",
+      "research": "智能信息检索、机器学习、检索增强生成式语言模型",
+      "emails": [
+        "xiao.wang@uibe.edu.cn"
+      ],
+      "office": "求索楼1025",
+      "courses": [],
+      "notes": "",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/dc785de6f6e544e59a09c76c317d6d0f.htm"
+    },
+    {
+      "id": "T02",
+      "name": "贺宇",
+      "department": "人工智能系",
+      "title": "",
+      "research": "",
+      "emails": [],
+      "office": "",
+      "courses": [],
+      "notes": "个人主页显示“暂无信息”；仅当前人工智能系名录可确认姓名与分组，不猜测研究方向、职称或邮箱。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/93611d7aaad14ec8a280ff9733d38c19.htm"
+    },
+    {
+      "id": "T05",
+      "name": "王鹏",
+      "department": "人工智能系",
+      "title": "讲师／高级工程师",
+      "research": "生成对抗网络、扩散模型、热红外图像解析、强化学习",
+      "emails": [
+        "paulwp@uibe.edu.cn"
+      ],
+      "office": "求索楼1012",
+      "courses": [],
+      "notes": "主页记录2025年8月入职贸大，之前的个人科研经历不能称为贸大主持项目。",
+      "source_url": "https://it.uibe.edu.cn/szdw/rgznx/cc3f19becfe84f5aa70fa0c07a2b96da.htm"
+    }
+  ]
+}

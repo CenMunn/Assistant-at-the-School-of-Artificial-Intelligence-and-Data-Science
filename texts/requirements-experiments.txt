@@ -1,0 +1,2 @@
+-r requirements-web.txt
+tokenizers==0.23.2
